@@ -31,7 +31,7 @@ The 21 issues of the Linkage Newsletter, published in a 10-year period between 1
 <--->
 
 ###  {{< button size="large" href="https://github.com/jurgott/handbook" >}}Handbook{{< /button >}}
-The "Handbook of Human Genetc Linkage" by Joseph D. Terwilliger and myself (Jurg Ott)
+Written by Joseph D. Terwilliger and Jurg Ott.
 
 {{< /columns >}}
 
@@ -42,29 +42,29 @@ Dr. Ott's publications.
 <--->
 
 ###  {{< button size="large" relref="posts/courses" >}}Short Courses{{< /button >}}
-List of short courses of genetics analysis
+List of short courses of genetics analysis.
 <--->
 
 ###  {{< button size="large" relref="posts/trainees" >}}Lab Members{{< /button >}}
-List of Dr. Ott's former and current scientific associates (students and postdocs)
+List of Dr. Ott's former and current scientific associates. 
 
 {{< /columns >}}
 
 ## Posts
 
-- [Getting started](posts/getting-started)
+- [Getting started](posts/getting-started).
 
 ## Computer Programs
 
-- [RunPM](posts/run-pm) A wrapper for `pseudomarker`, which combines linkage and association analysis and treats marker allele frequencies as nuisance parameters
-- [GPM](posts/gpm) A suite of programs for genotype pattern mining, i.e. evaluation of all pairs of genotypes and testing whether their frequencies differ in cases and controls. Users can apply these programs, or their own programs, to published datasets.
-- [DNT](posts/dnt) Based on genotype pairs obtained from GPM above, DNT finds SNPs significantly connected with other SNPs.
+- [RunPM](programs/run-pm) A wrapper for `pseudomarker`, which combines linkage and association analysis and treats marker allele frequencies as nuisance parameters
+  - [Download](https://github.com/jurgott/RunPM")
+- [GPM](programs/gpm) A suite of programs for genotype pattern mining, i.e. evaluation of all pairs of genotypes and testing whether their frequencies differ in cases and controls. Users can apply these programs, or their own programs, to published datasets.
+- [DNT](programs/dnt) Based on genotype pairs obtained from GPM above, DNT finds SNPs significantly connected with other SNPs.
   - [Download](https://github.com/jurgott/gpm_dnt")
 - [Genetic case-control data](https://github.com/jurgott/gpm_data) previously published in my lab.
 
 ## Links
 
 -   [Webpage](http://www.jurgott.org/linkage/home.html) containing Dr. Ott's computer programs, program manuals, bibliography and some other information of interest to statistical geneticists.
--   Dr. Ott's [personal webpage](http://www.jurgott.org/).
--   A complete [list of short courses](https://lab.rockefeller.edu/ott/ottshortcourses) taught by Jurg Ott and his associates
--   [Resources for college students with visual impairments](https://www.goodeyes.com/blog/resources-for-visually-impaired-students/)
+-   A complete [list of short courses](https://lab.rockefeller.edu/ott/ottshortcourses) taught by Jurg Ott and his associates.
+-   [Resources for college students with visual impairments](https://www.goodeyes.com/blog/resources-for-visually-impaired-students/).
