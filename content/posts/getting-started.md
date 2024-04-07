@@ -1,8 +1,7 @@
 ---
-title: post title here
-geekdocNav: false 
-geekdocAlign: left
-geekdocAnchor: false
+title: "Notes on markdown syntax"
+date: 2024-04-07
+draft: false
 ---
 
 Markdown format quick start: 

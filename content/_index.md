@@ -21,15 +21,14 @@ Dr. Jurg Ott is a renowned scholar and pioneer in the field of human genetic lin
 
 ### {{< button size="large" href="https://gaow.github.io/jurgott.org/genetic-analysis-software" >}}Genetic Analysis Software{{< /button >}}
 
-This list was created by Dr. Wentian Li when he was at Columbia University (1995-1996). It was later moved to Rockefeller University (1996-2002) and then to the North Shore LIJ Research Institute (2002-2013), maintained by Jurg Ott.
+The Rockefeller list of genetics software hosted on GitHub maintained by Jurg Ott and his former student Gao Wang.
 
 <--->
 
 ### {{< button size="large" href="https://github.com/jurgott/news" >}}News{{< /button >}}
-The 21 issues of the Linkage Newsletter, published in a 10-year period between 1987 and 1998, are shown here as a single pdf file. 
+The 21 issues of the Linkage Newsletter, published in a 10-year period between 1987 and 1998. 
 
 <--->
-
 
 ###  {{< button size="large" href="https://github.com/jurgott/handbook" >}}Handbook{{< /button >}}
 The "Handbook of Human Genetc Linkage" by Joseph D. Terwilliger and myself (Jurg Ott)
@@ -38,24 +37,34 @@ The "Handbook of Human Genetc Linkage" by Joseph D. Terwilliger and myself (Jurg
 
 {{< columns >}}
 
-###  {{< button size="large" href="https://github.com/jurgott/RunPM" >}}RunPM{{< /button >}}
-Pseudomarker: Running one marker at a time
+###  {{< button size="large" relref="posts/publications" >}}Publications{{< /button >}}
+Dr. Ott's publications.
 <--->
 
-###  {{< button size="large" href="https://github.com/jurgott/gpm_data" >}}GPM Data{{< /button >}}
-Genetic case-control data previously published in my lab.
+###  {{< button size="large" relref="posts/courses" >}}Short Courses{{< /button >}}
+List of short courses of genetics analysis
 <--->
 
-###  {{< button size="large" href="https://github.com/jurgott/gpm_dnt" >}}GPM DNT{{< /button >}}
-Based on output from the Gpairs program to 
-find SNPs significantly connected with other SNPs.
-
+###  {{< button size="large" relref="posts/trainees" >}}Lab Members{{< /button >}}
+List of Dr. Ott's former and current scientific associates (students and postdocs)
 
 {{< /columns >}}
 
 ## Posts
 
 - [Getting started](posts/getting-started)
-- [Getting started](posts/getting-started)
-- [Getting started](posts/getting-started)
-- [Getting started](posts/getting-started)
+
+## Computer Programs
+
+- [RunPM](posts/run-pm) A wrapper for `pseudomarker`, which combines linkage and association analysis and treats marker allele frequencies as nuisance parameters
+- [GPM](posts/gpm) A suite of programs for genotype pattern mining, i.e. evaluation of all pairs of genotypes and testing whether their frequencies differ in cases and controls. Users can apply these programs, or their own programs, to published datasets.
+- [DNT](posts/dnt) Based on genotype pairs obtained from GPM above, DNT finds SNPs significantly connected with other SNPs.
+  - [Download](https://github.com/jurgott/gpm_dnt")
+- [Genetic case-control data](https://github.com/jurgott/gpm_data) previously published in my lab.
+
+## Links
+
+-   [Webpage](http://www.jurgott.org/linkage/home.html) containing Dr. Ott's computer programs, program manuals, bibliography and some other information of interest to statistical geneticists.
+-   Dr. Ott's [personal webpage](http://www.jurgott.org/).
+-   A complete [list of short courses](https://lab.rockefeller.edu/ott/ottshortcourses) taught by Jurg Ott and his associates
+-   [Resources for college students with visual impairments](https://www.goodeyes.com/blog/resources-for-visually-impaired-students/)
