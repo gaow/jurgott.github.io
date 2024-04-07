@@ -1,6 +1,6 @@
 ---
 title: Welcome to Jurg Ott's Personal Website
-geekdocNav: false 
+geekdocNav: true 
 geekdocAlign: left
 geekdocAnchor: false
 ---
@@ -19,7 +19,7 @@ Dr. Jurg Ott is a renowned scholar and pioneer in the field of human genetic lin
 
 {{< columns >}}
 
-### {{< button size="large" href="https://gaow.github.io/genetic-analysis-software" >}}Genetic Analysis Software{{< /button >}}
+### {{< button size="large" href="https://gaow.github.io/jurgott.org/genetic-analysis-software" >}}Genetic Analysis Software{{< /button >}}
 
 This list was created by Dr. Wentian Li when he was at Columbia University (1995-1996). It was later moved to Rockefeller University (1996-2002) and then to the North Shore LIJ Research Institute (2002-2013), maintained by Jurg Ott.
 
@@ -55,7 +55,7 @@ find SNPs significantly connected with other SNPs.
 
 ## Posts
 
-- [Getting started](getting-started)
-- [Getting started](getting-started)
-- [Getting started](getting-started)
-- [Getting started](getting-started)
+- [Getting started](posts/getting-started)
+- [Getting started](posts/getting-started)
+- [Getting started](posts/getting-started)
+- [Getting started](posts/getting-started)
