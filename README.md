@@ -28,3 +28,7 @@ Built and preview,
 ```
 hugo serve
 ```
+
+## Host site on GitHub
+
+See here for details: https://gohugo.io/hosting-and-deployment/hosting-on-github/
