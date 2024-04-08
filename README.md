@@ -20,6 +20,7 @@ Here, I take that example site configuration and made several changes:
 
 1. Use URL in the `config.toml` file to reflect our website
 2. Comment out `logo.png` file because we don't have it yet; default will be used
+3. Change `geekdocMenuBundle` to `false` to use default plain side navigation
 
 ## Build site
 

@@ -50,12 +50,12 @@ enableRobotsTXT = true
 
   # (Optional, default none) Set source repository location. Used for 'Edit page' links.
   # You can also specify this parameter per page in front matter.
-  geekdocRepo = "https://github.com/jurgott/jurgott.github.io"
+  geekdocRepo = "https://github.dev/jurgott/jurgott.github.io"
 
   # (Optional, default none) Enable 'Edit page' links. Requires 'geekdocRepo' param
   # and the path must point to the parent directory of the 'content' folder.
   # You can also specify this parameter per page in front matter.
-  geekdocEditPath = "edit/main/"
+  geekdocEditPath = "main/"
 
   # (Optional, default true) Enables search function with flexsearch.
   # Index is built on the fly and might slow down your website.
