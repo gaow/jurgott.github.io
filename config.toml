@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://jurgott.github.io"
 title = "Jurg Ott's Personal Website"
 theme = "hugo-geekdoc"
 
@@ -50,7 +50,7 @@ enableRobotsTXT = true
 
   # (Optional, default none) Set source repository location. Used for 'Edit page' links.
   # You can also specify this parameter per page in front matter.
-  geekdocRepo = "https://github.com/jurgott/jurgott.org"
+  geekdocRepo = "https://github.com/jurgott/jurgott.github.io"
 
   # (Optional, default none) Enable 'Edit page' links. Requires 'geekdocRepo' param
   # and the path must point to the parent directory of the 'content' folder.

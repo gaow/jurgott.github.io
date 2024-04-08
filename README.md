@@ -1,4 +1,4 @@
-# jurgott.org
+# jurgott.github.io
 
 ## Setup a new website
 

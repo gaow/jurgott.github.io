@@ -19,7 +19,7 @@ Dr. Jurg Ott is a renowned scholar and pioneer in the field of human genetic lin
 
 {{< columns >}}
 
-### {{< button size="large" href="https://gaow.github.io/jurgott.org/genetic-analysis-software" >}}Genetic Analysis Software{{< /button >}}
+### {{< button size="large" relref="genetic-analysis-software" >}}Genetic Analysis Software{{< /button >}}
 
 The Rockefeller list of genetics software hosted on GitHub maintained by Jurg Ott and his former student Gao Wang.
 
