@@ -8,11 +8,11 @@ geekdocAnchor: false
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable MD033 -->
 
-<span class="badge-placeholder">[![Build Status](https://ci.thegeeklab.de/api/badges/thegeeklab/hugo-geekdoc/status.svg)](https://ci.thegeeklab.de/repos/thegeeklab/hugo-geekdoc)</span>
-<span class="badge-placeholder">[![Hugo Version](https://img.shields.io/badge/hugo-0.112-blue.svg)](https://gohugo.io)</span>
-<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/releases/latest)</span>
-<span class="badge-placeholder">[![GitHub contributors](https://img.shields.io/github/contributors/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/graphs/contributors)</span>
-<span class="badge-placeholder">[![License: MIT](https://img.shields.io/github/license/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/blob/main/LICENSE)</span>
+<span class="badge-placeholder">[![Build Status](https://github.com/jurgott/jurgott.github.io/actions/workflows/hugo.yaml/badge.svg)](https://github.com/jurgott/jurgott.github.io/deployments/github-pages)</span>
+<span class="badge-placeholder">[![Hugo Version](https://img.shields.io/badge/hugo-0.124-blue.svg)](https://gohugo.io)</span>
+<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/jurgott/jurgott.github.io)](https://github.com/jurgott/jurgott.github.io/releases/latest)</span>
+<span class="badge-placeholder">[![GitHub contributors](https://img.shields.io/github/contributors/jurgott/jurgott.github.io)](https://github.com/jurgott/jurgott.github.io/graphs/contributors)</span>
+<span class="badge-placeholder">[![License: CC BY-SA 4.0](https://img.shields.io/github/license/jurgott/jurgott.github.io)](https://github.com/jurgott/jurgott.github.io/blob/main/LICENSE)</span>
 
 <!-- markdownlint-restore -->
 Dr. Jurg Ott is a renowned scholar and pioneer in the field of human genetic linkage analysis. Ott was born and raised in Switzerland, where he also received his Ph.D. degree from the University of Zurich. Subsequently, he obtained an M.S. degree in Biomathematics from the University of Washington in Seattle. From 1986-1996, he was a professor at Columbia University in New York, departments of Psychiatry and Genetics & Development. From 1996-2009 he was a Professor at Rockefeller University in New York, where he is now a Professor Emeritus and Head of Laboratory. In Beijing, he served as a professor at the Beijing Institute of Genomics CAS through 2010 and moved to the Institute of Psychology CAS as a Visiting Professor in 2011. 
