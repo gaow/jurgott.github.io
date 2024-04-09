@@ -1,1 +1,1 @@
-[An Alphabetic List of Genetic Analysis Software](http://gaow.github.io/genetic-analysis-software)
+[An Alphabetic List of Genetic Analysis Software](http://jurgott.github.io/genetic-analysis-software)

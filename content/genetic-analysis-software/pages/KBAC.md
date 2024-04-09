@@ -11,10 +11,10 @@ This program implements the KBAC statistic in Liu and Leal (2010). It carries ou
 2010
 
 ## Author
-Gao Wang (email: gaow@uchicago.edu)
+Gao Wang (email: wang.gaow@columbia.edu)
 
 ## URL
-http://tigerwang.org/software/kbac
+http://github.com/gaow/kbac
 
 ## Language
 C++,R
