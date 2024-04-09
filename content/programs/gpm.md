@@ -13,7 +13,8 @@ Published datasets in plink format, previously obtained in my lab, are also avai
 **Note**: The current program version is 2.64 (24 Feb 2024). Older versions contained a bug in the calculation of the 2-sided Fisher-Irwin exact test.
 
   
-**Ubuntu running within Windows and the Free Pascal compiler, fpc**  
+## Ubuntu running within Windows and the Free Pascal compiler, fpc
+
 Ubuntu Linux can run within Windows, which represents a very easy way of running the two operating systems on the same Windows computer and using the most recent version of the [Free Pascal](https://www.freepascal.org/) compiler, fpc. Installation instructions on the Microsoft webpage will install an older fpc version. Steps outlined below are based on an [Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview) website. Follow these steps to install the latest Ubuntu and fpc versions. Type `cmd` in your Search box and right-click on the Command Prompt app to run it as an Administrator. To see a list of available Linux distributions, type  
 `wsl --list --online`
 
@@ -36,15 +37,17 @@ After this step, you should be able to successfully use fpc although it may issu
 and add the following line in the search path for libraries,  
 `-Fl/usr/lib/gcc/x86_64-linux-gnu/11/`
 
-**Frequent Pattern Mining  
-**Frequent Pattern Mining (FPM) methods can rapidly pick frequent patterns from large databases of items. The first such approach was implemented in the _Apriori_ program \[3, 4\], which was developed to mine consumer data. In addition to finding frequent items commonly purchased by a consumer, _Apriori_ also furnishes **association rules**, that is, estimates of P(Y|X), where Y and X are purchased goods like bread, milk, and wine. Such association rules can predict how likely it is that someone buying X will also buy Y. Further information may be found in our recent reviews \[5-7\].
+## Frequent Pattern Mining  
+
+Frequent Pattern Mining (FPM) methods can rapidly pick frequent patterns from large databases of items. The first such approach was implemented in the _Apriori_ program \[3, 4\], which was developed to mine consumer data. In addition to finding frequent items commonly purchased by a consumer, _Apriori_ also furnishes **association rules**, that is, estimates of P(Y|X), where Y and X are purchased goods like bread, milk, and wine. Such association rules can predict how likely it is that someone buying X will also buy Y. Further information may be found in our recent reviews \[5-7\].
 
 Here we apply FPM principles to genetic case-control studies with a moderate number of DNA variants and individuals. Specifically, we consider pairs of genotypes (genotype patterns) with one genotype each from two variants. Genotypes are labeled 1, 2, and 3 for AA, AB, and BB, respectively, and the label 0 (zero) stands for “missing”. For example, a genotype pattern might be X = AB–AA = 2–1. Phenotypes are labeled 2 for cases and 1 for controls, and we want to find association rules, P(Y=2|X), that is, estimates for the conditional probability (based on the proportion) of being a case among all individuals with genotype pattern X. In FPM terminology \[3, 4\], P(Y|X) is referred to as **confidence**, and P(X) is the **support** for X. In statistics, _confidence_ is known as the (positive) _predictive value_.
 
 In a previous publication \[8\], we applied the _Apriori_ algorithm to find interaction (epistasis) effects of variants in case-control data. Here, however, the focus is simply on frequencies of genotype patterns and whether they are different in cases and controls \[10\] while individual variants may not show such differences. Other approaches to find epistatic variants exist \[5\].
 
-**Pairs of variants and genotypes  
-**Consider two variants (SNPs), possibly on different chromosomes. Each variant has 3 genotypes, so there are 3 × 3 = 9 genotype pairs. All possible variant pairs are numbered 1, 2, ..., M, where M may be a rather large number. For a given pair of variants, we proceed in two ways as follows, where the two programs discussed below assume that the data are in standard _plink_ format \[9\].
+## Pairs of variants and genotypes  
+
+Consider two variants (SNPs), possibly on different chromosomes. Each variant has 3 genotypes, so there are 3 × 3 = 9 genotype pairs. All possible variant pairs are numbered 1, 2, ..., M, where M may be a rather large number. For a given pair of variants, we proceed in two ways as follows, where the two programs discussed below assume that the data are in standard _plink_ format \[9\].
 
 **Vpairs program**. For each of cases and controls, a 3 × 3 table of genotype pairs is set up as shown in the example below.
 

@@ -10,4 +10,4 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ## Section 1
 
-### Subsetcion 1
+### Subsection 1
