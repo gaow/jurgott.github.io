@@ -1,7 +1,7 @@
 ---
 title: "Genotype Pattern Mining for Human Digenic Traits"
 date: 2024-03-15
-draft: false
+draft: true
 ---
 
 This document describes a [program package](https://github.com/jurgott/gpm_prog "Genotype Pattern Mining for digenic traits"), _GPM_ \[10\], for finding pairs of genotypes or of DNA variants associated with a genetic trait (so-called digenic disease), where each genotype or variant by itself may not be disease associated. _GPM_ consists of two algorithms, _Gpairs_ and _Vpairs_, described below. These programs are available for Windows and Linux (Ubuntu) but they perform better in Linux than Windows.

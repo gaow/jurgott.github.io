@@ -1,7 +1,7 @@
 ---
 title: "Jurg Ott's publications"
 date: 2024-03-12
-draft: false
+draft: true
 ---
 
 *   **Ott J** (1968) Natural reproductive isolation between Sorex gemellus sp.n. and Sorex araneus Linnaeus 1758 in Switzerland (Mammalia, Insectivora) (in German with English summary). _Rev suisse Zool_ 75, 53-75

@@ -1,7 +1,7 @@
 ---
 title: "Pseudomarker: Running one marker at a time"
 date: 2024-03-15
-draft: false
+draft: true 
 ---
 
 The _Pseudomarker_ program \[1-3\] can estimate parameters for linkage and/or linkage disequilibrium (association) in family data and case-control data. It is based on the _Ilink_ program, which is part of the [Linkage](https://www.ncbi.nlm.nih.gov/research/staff/schaffer/fastlink/) package. This page is based on the official _Pseudomarker_ [program manual](https://www.mv.helsinki.fi/home/tsjuntun/pseudomarker/), modified with updated information. As outlined below, this webpage refers to a shell program, [RunPM](https://github.com/jurgott/RunPM), that repeatedly calls the _Pseudomarker_ program, which has to be downloaded separately for _RunPM_ to work.
