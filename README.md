@@ -1,4 +1,4 @@
-# jurgott.github.io
+# [jurgott.github.io](https://jurgott.github.io/)
 
 ## Setup a new website
 
