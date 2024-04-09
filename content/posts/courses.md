@@ -1,7 +1,6 @@
 ---
 title: "List of (recent) Short Courses of Genetics Analysis"
 date: 2024-03-15
-draft: true 
 ---
 
 **2024**

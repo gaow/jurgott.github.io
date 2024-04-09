@@ -1,7 +1,6 @@
 ---
 title: "Digenic Network Test, DNT"
 date: 2024-03-15
-draft: true 
 ---
 
 This website refers to a new method \[1\] of finding highly interactive DNA variants on the basis of long lists of genotype pairs in cases and controls. Such lists can be obtained for a given genetic trait like AMD and PD by the [Gpairs](https://lab.rockefeller.edu/ott/programs/GPM) program \[2\].

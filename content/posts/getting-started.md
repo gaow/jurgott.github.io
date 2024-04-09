@@ -1,7 +1,6 @@
 ---
 title: "Notes on markdown syntax"
 date: 2024-04-07
-draft: true 
 ---
 
 Markdown format quick start: 
